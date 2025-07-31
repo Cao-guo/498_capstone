@@ -1,0 +1,202 @@
+[
+  {
+    "transaction_date": "2023-01-01 10:30:00",
+    "product_id": 1,
+    "product_name": "Laptop",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 2,
+    "unit_price": 6999.0,
+    "total_price": 13998.0
+  },
+  {
+    "transaction_date": "2023-01-01 11:45:00",
+    "product_id": 2,
+    "product_name": "Wireless Mouse",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 5,
+    "unit_price": 89.9,
+    "total_price": 449.5
+  },
+  {
+    "transaction_date": "2023-01-02 09:15:00",
+    "product_id": 3,
+    "product_name": "Mechanical Keyboard",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 3,
+    "unit_price": 299.0,
+    "total_price": 897.0
+  },
+  {
+    "transaction_date": "2023-01-02 14:20:00",
+    "product_id": 4,
+    "product_name": "Monitor",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 1,
+    "unit_price": 1499.0,
+    "total_price": 1499.0
+  },
+  {
+    "transaction_date": "2023-01-03 16:30:00",
+    "product_id": 5,
+    "product_name": "Headphones",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 10,
+    "unit_price": 199.0,
+    "total_price": 1990.0
+  },
+  {
+    "transaction_date": "2023-01-04 10:00:00",
+    "product_id": 1,
+    "product_name": "Laptop",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 1,
+    "unit_price": 6999.0,
+    "total_price": 6999.0
+  },
+  {
+    "transaction_date": "2023-01-05 11:20:00",
+    "product_id": 6,
+    "product_name": "Office Desk",
+    "category_id": 2,
+    "category_name": "Furniture",
+    "quantity": 2,
+    "unit_price": 899.0,
+    "total_price": 1798.0
+  },
+  {
+    "transaction_date": "2023-01-06 13:45:00",
+    "product_id": 7,
+    "product_name": "Office Chair",
+    "category_id": 2,
+    "category_name": "Furniture",
+    "quantity": 4,
+    "unit_price": 599.0,
+    "total_price": 2396.0
+  },
+  {
+    "transaction_date": "2023-01-07 09:30:00",
+    "product_id": 8,
+    "product_name": "File Cabinet",
+    "category_id": 2,
+    "category_name": "Furniture",
+    "quantity": 1,
+    "unit_price": 1299.0,
+    "total_price": 1299.0
+  },
+  {
+    "transaction_date": "2023-01-08 15:40:00",
+    "product_id": 9,
+    "product_name": "Desk Lamp",
+    "category_id": 3,
+    "category_name": "Lighting",
+    "quantity": 5,
+    "unit_price": 79.9,
+    "total_price": 399.5
+  },
+  {
+    "transaction_date": "2023-01-09 16:50:00",
+    "product_id": 10,
+    "product_name": "Notebook",
+    "category_id": 4,
+    "category_name": "Stationery",
+    "quantity": 20,
+    "unit_price": 5.5,
+    "total_price": 110.0
+  },
+  {
+    "transaction_date": "2023-01-10 11:10:00",
+    "product_id": 11,
+    "product_name": "Pen",
+    "category_id": 4,
+    "category_name": "Stationery",
+    "quantity": 50,
+    "unit_price": 3.0,
+    "total_price": 150.0
+  },
+  {
+    "transaction_date": "2023-01-15 14:25:00",
+    "product_id": 1,
+    "product_name": "Laptop",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 3,
+    "unit_price": 6999.0,
+    "total_price": 20997.0
+  },
+  {
+    "transaction_date": "2023-01-20 13:15:00",
+    "product_id": 5,
+    "product_name": "Headphones",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 8,
+    "unit_price": 199.0,
+    "total_price": 1592.0
+  },
+  {
+    "transaction_date": "2023-01-25 10:45:00",
+    "product_id": 6,
+    "product_name": "Office Desk",
+    "category_id": 2,
+    "category_name": "Furniture",
+    "quantity": 3,
+    "unit_price": 899.0,
+    "total_price": 2697.0
+  },
+  {
+    "transaction_date": "2023-02-01 09:20:00",
+    "product_id": 2,
+    "product_name": "Wireless Mouse",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 10,
+    "unit_price": 89.9,
+    "total_price": 899.0
+  },
+  {
+    "transaction_date": "2023-02-05 14:30:00",
+    "product_id": 3,
+    "product_name": "Mechanical Keyboard",
+    "category_id": 1,
+    "category_name": "Electronics",
+    "quantity": 5,
+    "unit_price": 299.0,
+    "total_price": 1495.0
+  },
+  {
+    "transaction_date": "2023-02-10 16:00:00",
+    "product_id": 7,
+    "product_name": "Office Chair",
+    "category_id": 2,
+    "category_name": "Furniture",
+    "quantity": 6,
+    "unit_price": 599.0,
+    "total_price": 3594.0
+  },
+  {
+    "transaction_date": "2023-02-15 11:30:00",
+    "product_id": 11,
+    "product_name": "Pen",
+    "category_id": 4,
+    "category_name": "Stationery",
+    "quantity": 100,
+    "unit_price": 3.0,
+    "total_price": 300.0
+  },
+  {
+    "transaction_date": "2023-02-20 10:15:00",
+    "product_id": 10,
+    "product_name": "Notebook",
+    "category_id": 4,
+    "category_name": "Stationery",
+    "quantity": 50,
+    "unit_price": 5.5,
+    "total_price": 275.0
+  }
+]

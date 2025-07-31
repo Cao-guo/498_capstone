@@ -1,0 +1,8 @@
+Flask
+flask-restx
+SQLAlchemy
+Flask-SQLAlchemy
+psycopg2-binary
+pandas
+Werkzeug
+python-dotenv
