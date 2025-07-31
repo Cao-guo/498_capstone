@@ -1,0 +1,21 @@
+transaction_date,product_id,product_name,category_id,category_name,quantity,unit_price,total_price
+2023-01-01 10:30:00,1,Laptop,1,Electronics,2,6999.00,13998.00
+2023-01-01 11:45:00,2,Wireless Mouse,1,Electronics,5,89.90,449.50
+2023-01-02 09:15:00,3,Mechanical Keyboard,1,Electronics,3,299.00,897.00
+2023-01-02 14:20:00,4,Monitor,1,Electronics,1,1499.00,1499.00
+2023-01-03 16:30:00,5,Headphones,1,Electronics,10,199.00,1990.00
+2023-01-04 10:00:00,1,Laptop,1,Electronics,1,6999.00,6999.00
+2023-01-05 11:20:00,6,Office Desk,2,Furniture,2,899.00,1798.00
+2023-01-06 13:45:00,7,Office Chair,2,Furniture,4,599.00,2396.00
+2023-01-07 09:30:00,8,File Cabinet,2,Furniture,1,1299.00,1299.00
+2023-01-08 15:40:00,9,Desk Lamp,3,Lighting,5,79.90,399.50
+2023-01-09 16:50:00,10,Notebook,4,Stationery,20,5.50,110.00
+2023-01-10 11:10:00,11,Pen,4,Stationery,50,3.00,150.00
+2023-01-15 14:25:00,1,Laptop,1,Electronics,3,6999.00,20997.00
+2023-01-20 13:15:00,5,Headphones,1,Electronics,8,199.00,1592.00
+2023-01-25 10:45:00,6,Office Desk,2,Furniture,3,899.00,2697.00
+2023-02-01 09:20:00,2,Wireless Mouse,1,Electronics,10,89.90,899.00
+2023-02-05 14:30:00,3,Mechanical Keyboard,1,Electronics,5,299.00,1495.00
+2023-02-10 16:00:00,7,Office Chair,2,Furniture,6,599.00,3594.00
+2023-02-15 11:30:00,11,Pen,4,Stationery,100,3.00,300.00
+2023-02-20 10:15:00,10,Notebook,4,Stationery,50,5.50,275.00
